@@ -10,7 +10,6 @@
 ---
 ![Cs2mirage](https://github.com/user-attachments/assets/4cfb7987-6405-40c9-b0b7-92994e6c7cdb)
 
-![bomba](https://github.com/user-attachments/assets/cfe402e1-bcea-4a8b-9040-2c35174abc66)
 
 
 ##  Gameplay Overview
@@ -26,3 +25,9 @@ But first, you must **collect 10 bonuses** scattered across the level — all wh
 -  **Custom Music** for immersion and tension
 
 ---
+## 🎮 Controls
+
+- **Move** — `W` `A` `S` `D`
+- **Shoot** — `Space` / `Mouse`
+- **Pick up item** — `E`
+- **Defuse bomb** — Hold `F` (after collecting 10 pliers)
