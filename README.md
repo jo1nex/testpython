@@ -6,7 +6,12 @@
 > **Singleplayer 2D action game** inspired by Counter-Strike, built with Python.  
 > Search for tools, survive enemy waves, and defuse the bomb before time runs out!
 
+
 ---
+![Cs2mirage](https://github.com/user-attachments/assets/4cfb7987-6405-40c9-b0b7-92994e6c7cdb)
+
+![bomba](https://github.com/user-attachments/assets/cfe402e1-bcea-4a8b-9040-2c35174abc66)
+
 
 ##  Gameplay Overview
 
